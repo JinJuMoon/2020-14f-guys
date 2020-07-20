@@ -8,6 +8,7 @@ class ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("테스트용 코드 변경");
     }
 
 }
